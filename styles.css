@@ -1,6 +1,11 @@
 
 h1{
+    line-height: 200px;
+    height: 200px;
+    border: 3px solid green;
+    text-align: center;
     color: darkcyan;
+    font-size: 120pt;
     }
 ul{
     color: red;
